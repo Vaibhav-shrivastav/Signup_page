@@ -1,0 +1,25 @@
+.form{
+    background-repeat: no-repeat;
+    background-size: 1500px;
+    text-align: center;
+    padding: 22px ;
+    border: 10px solid black;
+    background-image: url("background-website-plant-wall.jpg");
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    box-sizing: border-box;
+    font-size: medium;
+}
+body{
+    background-color: rgb(155, 248, 248);
+}
+h1{
+    font-family: 'Arvo', Courier, monospace;
+}
+input[type="submit"]:hover{
+    background-color: rgb(81, 214, 255);
+}
+.extra{
+    font-family:'Kalam', Courier, monospace, Times, serif;
+    text-align: center;
+    font-size: large;
+}
